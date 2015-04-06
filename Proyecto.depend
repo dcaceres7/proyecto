@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1427909925 source:/home/daniela/Música/Proyecto/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"movimientos.h"
+
+1427863204 source:/home/daniela/Música/Proyecto/src/movimientos.cpp
+	"movimientos.h"
+
+1427863086 /home/daniela/Música/Proyecto/include/movimientos.h
+	<SFML/Graphics.hpp>
+
+1428347024 source:/home/daniela/Descargas/Proyecto/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Dos_Jugadores.h"
+	"UnJugador.h"
+	<string>
+	<sstream>
+	<fstream>
+	<SFML/Audio.hpp>
+
+1427994431 /home/daniela/Descargas/Proyecto/include/movimientos.h
+	<SFML/Graphics.hpp>
+	<map>
+	<vector>
+
+1427994431 source:/home/daniela/Descargas/Proyecto/src/movimientos.cpp
+	"movimientos.h"
+
+1428347332 /home/daniela/Descargas/Proyecto/include/Dos_Jugadores.h
+	<SFML/Graphics.hpp>
+
+1428347266 source:/home/daniela/Descargas/Proyecto/src/Dos_Jugadores.cpp
+	"Dos_Jugadores.h"
+
+1428320590 source:/home/daniela/Descargas/Proyecto/src/UnJugador.cpp
+	"UnJugador.h"
+
+1428026542 /home/daniela/Descargas/Proyecto/include/UnJugador.h
+	"Dos_Jugadores.h"
+	<SFML/Graphics.hpp>
+	<time.h>
+	<iostream>
+	<cstdlib>
+
