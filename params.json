@@ -1,0 +1,1 @@
+{"name":"Proyecto","tagline":"","body":"Instalar la Libreria SFML en Linux:\r\n1. Abrir la terminal\r\n2. sudo apt-get install libsfml-dev\r\n3.Code Blocks configurar:\r\n*Settings\r\n*Compiler\r\n*Agregar:","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
